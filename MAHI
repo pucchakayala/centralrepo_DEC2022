@@ -1,0 +1,8 @@
+class test
+{
+ private:
+ int i, j;
+ 
+ public:
+ void display();
+};
